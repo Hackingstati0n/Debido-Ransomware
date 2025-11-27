@@ -1,9 +1,5 @@
 # Debido Ransomware
-
-
-https://github.com/user-attachments/assets/9e3711ba-fb85-4ce2-b61d-0e4d42fff4e0
-
-
+![banner](https://github.com/user-attachments/assets/ce6eeb5e-2945-4578-95e6-c48a3b09037a)
 
 ⚠️ AVISO CRÍTICO: PROJETO EXCLUSIVAMENTE EDUCACIONAL
 
