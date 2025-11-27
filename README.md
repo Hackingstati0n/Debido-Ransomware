@@ -54,7 +54,7 @@ Mais de 200 tipos de arquivo suportados, incluindo:
 
 ### Pré-requisitos
 Clone o repositório:
-git clone https://github.com/seu-usuario/educational-ransomware-sim.git
+git clone [https://github.com/seu-usuario/educational-ransomware-sim.git](https://github.com/Hackingstati0n/Debido-Ransomwar)
 cd educational-ransomware-sim
 
 Instale as dependências:
