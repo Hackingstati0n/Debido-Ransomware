@@ -1,4 +1,9 @@
-# Educational Ransomware Simulation
+# Debido Ransomware
+
+
+https://github.com/user-attachments/assets/9e3711ba-fb85-4ce2-b61d-0e4d42fff4e0
+
+
 
 ⚠️ AVISO CRÍTICO: PROJETO EXCLUSIVAMENTE EDUCACIONAL
 
@@ -143,7 +148,7 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
 ## Autores
 
-- Seu Nome - Pesquisador em Segurança - [SeuGitHub](https://github.com/seu-usuario)
+- David A. Mascaro - Pesquisador em Segurança - [SeuGitHub](https://github.com/Hackingstati0n)
 
 ---
 
