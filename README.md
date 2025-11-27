@@ -85,8 +85,6 @@ educational-ransomware-sim/
 ├── debido.py          # Código principal
 ├── requirements.txt           # Dependências
 ├── README.md                  # Documentação
-├── LICENSE                    # Licença MIT
-├── test_environment.py        # Script de teste seguro
 
 
 ## 📊 Fluxograma de Comportamento
@@ -126,7 +124,25 @@ educational-ransomware-sim/
 
 Extensões Suportadas: 200+
 Python Version: 3.8+
-License: MIT
+
+## Referências MITRE ATT&CK
+<img width="399" height="126" alt="image" src="https://github.com/user-attachments/assets/11e6214d-65c7-4bb8-860f-0caf1f796be8" />
+
+# Criptografia
+- T1486 – Data Encryption for Impact
+
+# Persistência
+- T1547 – Boot or Logon Autostart Execution
+- T1053 – Scheduled Task/Job
+
+# Evasão / Antiforense
+- T1070 – Indicator Removal on Host
+- T1107 – File Deletion
+- T1490 – Inhibit System Recovery
+
+# Propagação em Rede
+- T1021 – Remote Services
+- T1080 – Command Execution on Network Shares
 
 ## Contribuição
 
@@ -138,16 +154,12 @@ Contribuições são bem-vindas para fins educacionais:
 4. Push para a branch (git push origin feature/AmazingFeature)
 5. Abra um Pull Request
 
-## Licença
-
-Distribuído sob licença MIT. Veja LICENSE para mais informações.
-
 ## Autores
 
 - David A. Mascaro - Pesquisador em Segurança - [MeuGitHub](https://github.com/Hackingstati0n)
 
----
-
 LEMBRE-SE: CONHECIMENTO É PODER, USE-O COM RESPONSABILIDADE
 
 Este projeto visa educar para proteger, não para causar danos.
+
+***Em Constante evolução. O Malware pode contera funções adicioanais tais como: Grabber Files e Runtime Execution e directory per*. 
