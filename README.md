@@ -90,12 +90,14 @@ educational-ransomware-sim/
 
 ## 📊 Fluxograma de Comportamento
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" width="300">
-  <img src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" width="300">
-  <img src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" width="300">
-  <img src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" width="300">
-</div>
+[<img src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" width="250"/>](https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319)
+
+[<img src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" width="250"/>](https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c)
+
+[<img src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" width="250"/>](https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb)
+
+[<img src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" width="250"/>](https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d)
+
 
 
 ❌ USO PROIBIDO
