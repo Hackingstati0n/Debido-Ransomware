@@ -90,77 +90,18 @@ educational-ransomware-sim/
 
 ## 📊 Fluxograma de Comportamento
 
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; border: 2px solid #e1e8ed;">
-  
-  <div style="display: inline-flex; gap: 25px; padding: 15px;">
-    
-    <!-- Fluxograma 1 - encrypt_and_corrupt -->
-    <div style="display: inline-block; text-align: center;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h4 style="margin: 0 0 10px 0; color: #2c3e50;">🔐 encrypt_and_corrupt</h4>
-        <img 
-          width="350" 
-          height="578" 
-          alt="Fluxograma encrypt_and_corrupt" 
-          src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" 
-          style="border: 2px solid #3498db; border-radius: 8px;"
-        />
-      </div>
-    </div>
+<div style="overflow-x: auto; border: 2px dashed #bdc3c7; border-radius: 10px; padding: 15px; background: #ecf0f1;">
+<div style="display: inline-flex; gap: 20px;">
 
-    <!-- Fluxograma 2 - destroy_file_5x -->
-    <div style="display: inline-block; text-align: center;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h4 style="margin: 0 0 10px 0; color: #2c3e50;">💥 destroy_file_5x</h4>
-        <img 
-          width="400" 
-          height="672" 
-          alt="Fluxograma destroy_file_5x" 
-          src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" 
-          style="border: 2px solid #e74c3c; border-radius: 8px;"
-        />
-      </div>
-    </div>
+![encrypt_and_corrupt](https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319)
+![destroy_file_5x](https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c)
+![percorrer_diretorio_destruir](https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb)
+![Fluxograma Principal](https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d)
 
-    <!-- Fluxograma 3 - percorrer_diretorio_destruir -->
-    <div style="display: inline-block; text-align: center;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h4 style="margin: 0 0 10px 0; color: #2c3e50;">📁 percorrer_diretorio_destruir</h4>
-        <img 
-          width="450" 
-          height="533" 
-          alt="Fluxograma percorrer_diretorio_destruir" 
-          src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" 
-          style="border: 2px solid #27ae60; border-radius: 8px;"
-        />
-      </div>
-    </div>
-
-    <!-- Fluxograma 4 - Fluxograma Principal -->
-    <div style="display: inline-block; text-align: center;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h4 style="margin: 0 0 10px 0; color: #2c3e50;">🚀 Fluxograma Principal</h4>
-        <img 
-          width="500" 
-          height="1412" 
-          alt="Fluxograma Principal" 
-          src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" 
-          style="border: 2px solid #9b59b6; border-radius: 8px;"
-        />
-      </div>
-    </div>
-
-  </div>
+</div>
 </div>
 
-<div style="text-align: center; margin-top: 15px;">
-  <small style="color: #7f8c8d;">
-    🖱️ <em>Use a barra de rolagem horizontal para visualizar todos os fluxogramas</em> 🖱️
-  </small>
-</div>
-
-
-
+<p align="center"><small>🔄 <em>Role para o lado para ver todos os diagramas</em> 🔄</small></p>
 ## Avisos Legais e Éticos
 
 ❌ USO PROIBIDO
