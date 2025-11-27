@@ -88,8 +88,63 @@ educational-ransomware-sim/
 ├── test_environment.py        # Script de teste seguro
 
 
-## Fluxograma de Comportamento: 
-<img width="1563" height="4414" alt="deepseek_mermaid_20251127_d88f04" src="https://github.com/user-attachments/assets/385ef140-9b8f-4242-bd0a-69cad2d9cb62" />, <img width="2478" height="2937" alt="E para a função percorrer_diretorio_destrui" src="https://github.com/user-attachments/assets/e7542cba-be09-47d2-aa8c-6d2666aad880" />, <img width="1574" height="2645" alt="E para destroy_file_5x" src="https://github.com/user-attachments/assets/caf72466-33de-4258-9772-1f7c9f74bfd4" />, <img width="735" height="1212" alt="encrypt_and_corrupt" src="https://github.com/user-attachments/assets/ca04574f-382c-4fd6-87cb-50f4cca43dbb" />
+## 📊 Fluxograma de Comportamento
+
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #f8f9fa;">
+  <div style="display: inline-block; min-width: 100%;">
+    <!-- Fluxograma Principal -->
+    <div style="display: inline-block; margin-right: 20px; vertical-align: top;">
+      <h4>🔹 Fluxograma Principal</h4>
+      <img 
+        width="600" 
+        height="800" 
+        alt="Fluxograma Principal do Código" 
+        src="https://github.com/user-attachments/assets/385ef140-9b8f-4242-bd0a-69cad2d9cb62" 
+        style="border: 1px solid #ccc; border-radius: 4px;"
+      />
+    </div>
+    
+    <!-- Função percorrer_diretorio_destruir -->
+    <div style="display: inline-block; margin-right: 20px; vertical-align: top;">
+      <h4>🔹 Função percorrer_diretorio_destruir</h4>
+      <img 
+        width="500" 
+        height="600" 
+        alt="Fluxograma da função percorrer_diretorio_destruir" 
+        src="https://github.com/user-attachments/assets/e7542cba-be09-47d2-aa8c-6d2666aad880" 
+        style="border: 1px solid #ccc; border-radius: 4px;"
+      />
+    </div>
+    
+    <!-- Função destroy_file_5x -->
+    <div style="display: inline-block; margin-right: 20px; vertical-align: top;">
+      <h4>🔹 Função destroy_file_5x</h4>
+      <img 
+        width="400" 
+        height="500" 
+        alt="Fluxograma da função destroy_file_5x" 
+        src="https://github.com/user-attachments/assets/caf72466-33de-4258-9772-1f7c9f74bfd4" 
+        style="border: 1px solid #ccc; border-radius: 4px;"
+      />
+    </div>
+    
+    <!-- Função encrypt_and_corrupt -->
+    <div style="display: inline-block; vertical-align: top;">
+      <h4>🔹 Função encrypt_and_corrupt</h4>
+      <img 
+        width="300" 
+        height="400" 
+        alt="Fluxograma da função encrypt_and_corrupt" 
+        src="https://github.com/user-attachments/assets/ca04574f-382c-4fd6-87cb-50f4cca43dbb" 
+        style="border: 1px solid #ccc; border-radius: 4px;"
+      />
+    </div>
+  </div>
+</div>
+
+<div style="margin-top: 10px; text-align: center; color: #666; font-size: 12px;">
+  <em>Use a barra de rolagem horizontal para visualizar todos os fluxogramas</em>
+</div>
 
 ## Avisos Legais e Éticos
 
