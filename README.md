@@ -144,7 +144,7 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
 ## Autores
 
-- David A. Mascaro - Pesquisador em Segurança - [SeuGitHub](https://github.com/Hackingstati0n)
+- David A. Mascaro - Pesquisador em Segurança - [MeuGitHub](https://github.com/Hackingstati0n)
 
 ---
 
