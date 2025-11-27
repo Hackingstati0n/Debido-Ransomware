@@ -90,14 +90,23 @@ educational-ransomware-sim/
 
 ## 📊 Fluxograma de Comportamento
 
-[<img src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" width="250"/>](https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319">
+    <img src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" width="180">
+  </a>
 
-[<img src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" width="250"/>](https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c)
+  <a href="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c">
+    <img src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" width="180">
+  </a>
 
-[<img src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" width="250"/>](https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb)
+  <a href="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb">
+    <img src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" width="180">
+  </a>
 
-[<img src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" width="250"/>](https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d)
-
+  <a href="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d">
+    <img src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" width="180">
+  </a>
+</div>
 
 
 ❌ USO PROIBIDO
