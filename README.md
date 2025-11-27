@@ -89,20 +89,13 @@ educational-ransomware-sim/
 
 
 ## Fluxograma de Comportamento: 
-graph TD
-    A[Início] --> B{É Windows?};
-    B -- Sim --> C[educational_persistence_example];
-    B -- Não --> D[mostrar_estatisticas];
-    C --> D;
-    D --> E[Continuar? s/N];
-    E -- Não --> F[Sair];
-    E -- Sim --> G[percorrer_diretorio_destruir];
-    G --> H{É Windows?};
-    H -- Sim --> I[delete_shadow_copies];
-    H -- Não --> J[propagate_to_network_shares];
-    I --> J;
-    J --> K[criar_aviso_resgate];
-    K --> L[Fim];
+<img width="1563" height="4414" alt="deepseek_mermaid_20251127_d88f04" src="https://github.com/user-attachments/assets/385ef140-9b8f-4242-bd0a-69cad2d9cb62" />
+
+<img width="2478" height="2937" alt="E para a função percorrer_diretorio_destrui" src="https://github.com/user-attachments/assets/e7542cba-be09-47d2-aa8c-6d2666aad880" />
+
+<img width="1574" height="2645" alt="E para destroy_file_5x" src="https://github.com/user-attachments/assets/caf72466-33de-4258-9772-1f7c9f74bfd4" />
+
+<img width="735" height="1212" alt="encrypt_and_corrupt" src="https://github.com/user-attachments/assets/ca04574f-382c-4fd6-87cb-50f4cca43dbb" />
 
 ## Avisos Legais e Éticos
 
