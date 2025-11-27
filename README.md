@@ -81,15 +81,28 @@ Continuar? (s/N):
 
 educational-ransomware-sim/
 │
-├── ransomware_sim.py          # Código principal
+├── debido.py          # Código principal
 ├── requirements.txt           # Dependências
 ├── README.md                  # Documentação
 ├── LICENSE                    # Licença MIT
 ├── test_environment.py        # Script de teste seguro
-└── examples/
-    ├── detection_rules.yml    # Regras YARA de exemplo
-    ├── incident_response.md   # Procedimentos de resposta
-    └── prevention_guide.md    # Guia de prevenção
+
+
+## Fluxograma de Comportamento: 
+graph TD
+    A[Início] --> B{É Windows?};
+    B -- Sim --> C[educational_persistence_example];
+    B -- Não --> D[mostrar_estatisticas];
+    C --> D;
+    D --> E[Continuar? s/N];
+    E -- Não --> F[Sair];
+    E -- Sim --> G[percorrer_diretorio_destruir];
+    G --> H{É Windows?};
+    H -- Sim --> I[delete_shadow_copies];
+    H -- Não --> J[propagate_to_network_shares];
+    I --> J;
+    J --> K[criar_aviso_resgate];
+    K --> L[Fim];
 
 ## Avisos Legais e Éticos
 
