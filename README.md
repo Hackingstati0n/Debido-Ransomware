@@ -90,19 +90,13 @@ educational-ransomware-sim/
 
 ## 📊 Fluxograma de Comportamento
 
-<div style="overflow-x: auto; border: 2px dashed #bdc3c7; border-radius: 10px; padding: 15px; background: #ecf0f1;">
-<div style="display: inline-flex; gap: 20px;">
-
-![encrypt_and_corrupt](https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319)
-![destroy_file_5x](https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c)
-![percorrer_diretorio_destruir](https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb)
-![Fluxograma Principal](https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d)
-
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/34325bac-de23-4629-bd7f-248de9ab4319" width="300">
+  <img src="https://github.com/user-attachments/assets/f7ad1491-2533-454f-b23b-ca55e7a2d62c" width="300">
+  <img src="https://github.com/user-attachments/assets/9c525885-e36b-4960-8e8e-a0a643957fcb" width="300">
+  <img src="https://github.com/user-attachments/assets/5063a0f1-01f6-494b-a19c-0260fe1eca8d" width="300">
 </div>
 
-<p align="center"><small>🔄 <em>Role para o lado para ver todos os diagramas</em> 🔄</small></p>
-## Avisos Legais e Éticos
 
 ❌ USO PROIBIDO
 - Atividades maliciosas ou criminosas
